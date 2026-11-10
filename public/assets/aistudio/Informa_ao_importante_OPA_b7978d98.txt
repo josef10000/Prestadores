@@ -1,0 +1,64 @@
+REGRA PARA PREVISÃO
+
+Não passamos mais previsão de atendimento.
+
+Caso o vendedor questione, informe que o técnico entra em contato antes de ir  até o local.
+
+Às 16h, iniciaremos a confirmação das agendas. Caso o técnico informe que haverá atraso, avisaremos o cliente.
+
+
+REGRAS DO OPA
+
+Para cada placa e solicitação, é obrigatório abrir um novo protocolo no OPA, garantindo organização, rastreabilidade e produtividade.
+
+DADOS OBRIGATÓRIOS PARA SOLICITAÇÃO DE ENCAIXE
+
+Placa
+Nome do cliente
+Telefone
+Endereço completo (com número)
+Cidade
+Bairro
+CEP
+Região do técnico
+
+REGRAS PARA SOLICITAÇÃO DE ENCAIXE
+
+O encaixe somente poderá ser solicitado após a confirmação da baixa do pagamento no sistema.
+
+Pedidos com valores entre R$ 1,00 e R$ 50,00 que não estiverem com o pagamento confirmado não terão solicitação de encaixe.
+
+Nesses casos, também não será realizado agendamento para outra data nem para o dia seguinte.
+
+Antes de solicitar o encaixe, sempre confirme a placa aba pedido.
+
+Se o valor entre R$ 1,00 e R$ 50,00 constar como pago, o pedido poderá ser encaminhado ao técnico para tentativa de encaixe.
+
+Caso o pagamento não esteja confirmado, oriente o vendedor ou o líder a realizar o pagamento para que seja possível solicitar a tentativa de encaixe.
+
+
+REGRA PARA ATENDIMENTO FRUSTRADO
+
+Sempre que o vendedor pedir para frustrar de um atendimento, registre o motivo no campo de observação do NEO.
+
+Assim, caso o vendedor, o líder ou o BackOffice entre em contato posteriormente, haverá um histórico registrado para consulta e repasse das informações.
+
+
+REGRA PARA PEDIDOS PRÉ-AGENDADOS
+
+Os pedidos não são removidos da agenda apenas por terem sido assinados após o horário limite.
+
+Caso a agenda já tenha atingido sua capacidade máxima com pedidos assinados, qualquer pedido assinado posteriormente também será frustrado.
+
+Isso ocorre porque a agenda já atingiu o limite definido pelo técnico, garantindo a qualidade do atendimento.
+
+Após esse limite ser alcançado, não será possível incluir novos atendimentos para o mesmo dia.
+
+
+PENDÊNCIAS / PEDIDOS SEM ASSINATURA (PRÉ-AGENDADOS)
+
+É obrigatório que o documento esteja assinado para dar continuidade ao agendamento ou à tentativa de encaixe.
+
+Sem a assinatura, o pedido permanecerá com o status Pré-Agendado.
+
+Importante: um pedido Pré-Agendado não garante vaga na agenda.

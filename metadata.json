@@ -1,0 +1,6 @@
+{
+  "name": "Consulta de Prestadores por Região",
+  "description": "Sistema de busca e gerenciamento de prestadores e técnicos por região (Leste, Oeste, Norte, Sul, etc.) com persistência em LocalStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

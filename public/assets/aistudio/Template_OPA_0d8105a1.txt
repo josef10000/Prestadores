@@ -1,0 +1,100 @@
+🟦 1. ABERTURA
+
+Boa tarde! Estou verificando seu atendimento. Um momento, por favor. As mensagens são respondidas por ordem de envio. Peço que aguarde. 😊
+
+🟦 2. EM ANÁLISE / VERIFICAÇÃO
+
+Bom dia! Vou verificar a disponibilidade na agenda da região.
+
+Olá, bom dia/boa tarde! Encaminhei sua solicitação para tentativa de encaixe. Assim que eu tiver um retorno, aviso por aqui.
+
+Lembrando que os encaixes são apenas tentativas e dependem da disponibilidade do técnico. Recomendo garantir um agendamento para o cliente, evitando que ele fique aguardando a confirmação do encaixe.
+
+🟦 3. ENCAIXE
+✔️ Aprovado
+Técnico aceitou o encaixe. Quando estiver a caminho, entrará em contato com o cliente. Ele não vai passar previsão de horário,oriente o cliente a aguardar no local agendado.
+
+⏳ Aguardando retorno do encaixe
+
+O técnico ainda não confirmou o encaixe. Deseja continuar aguardando ou prefere reagendar?
+
+❌ Não aprovado
+
+Infelizmente, o técnico não conseguirá realizar o encaixe hoje. Deseja agendar para uma nova data?
+
+🟦 4. AGENDAMENTO
+✔️ Sucesso
+
+Seu agendamento foi realizado com sucesso. Por gentileza, confira a data e, principalmente, o endereço no sistema.
+
+⚠️ Sem vaga
+
+No momento, não há disponibilidade para a data solicitada. Tenho vaga para o dia ____. O cliente pode nessa data?
+
+⏰ Horário
+
+Não há previsão de horário. O atendimento será realizado dentro do horário comercial.
+
+Caso o técnico não consiga contato com o cliente, a equipe fará uma nova tentativa.
+
+A partir das 16h iniciaremos a confirmação da agenda. Se o técnico informar que o atendimento ultrapassará as 18h, avisaremos o cliente.
+
+🟦 5. PENDÊNCIAS / PEDIDO SEM ASSINATURA (PRÉ-AGENDADO)
+
+É necessário que o documento esteja assinado para dar andamento ao agendamento ou à tentativa de encaixe. Sem a assinatura, o atendimento permanecerá como pré-agendado.
+
+Lembrando que um atendimento pré-agendado não garante vaga na agenda.
+
+Após a assinatura:
+
+Com vaga: será confirmado como agendado.
+Sem vaga: ficará aguardando reagendamento.
+
+🟦 6. DADOS OBRIGATÓRIOS PARA ENCAIXE
+
+Placa:
+
+Nome:
+
+Telefone:
+
+Endereço com nº:
+
+Cidade:
+
+Bairro:
+
+CEP:
+
+Região do técnico:
+
+Data desejada para o agendamento:
+
+🟦 7. REGRAS OPA
+Para cada placa e solicitação, é necessário abrir um novo protocolo, por questão de organização e produtividade.
+
+🟦 8. HORÁRIO DE ATENDIMENTO
+Agendamentos para o próximo dia: até às 18h.
+Dúvidas e informações: até às 19h.
+
+Após esse horário, o atendimento será retomado no próximo dia, a partir das 7h.
+
+🟦 9. PEDIDO PRÉ-AGENDADO
+
+Os pedidos não são removidos das agendas apenas por terem sido assinados após o horário limite.
+
+Caso a agenda já tenha atingido o limite com pedidos assinados, qualquer pedido assinado posteriormente também será frustrado. Isso ocorre porque a agenda já atingiu o limite máximo definido pelo técnico, garantindo a qualidade do atendimento.
+
+Após atingir esse limite, não é possível incluir novos atendimentos para o mesmo dia.
+
+🟦 10. ENCERRAMENTO NO OPA POR FALTA DE INTERAÇÃO
+
+Atendimento encerrado por falta de interação.
+
+
+- Sempre que o vendedor pedir a frustrar de um atendimento, por favor, registre o motivo. Assim, caso ele, o líder ou o BackOffice (BKO) entre em contato questionando, teremos a informação registrada para repassar.
+
+
+-Encaixe só pode ser solicitado após constar a baixa do pagamento no sistema.
+
+Pedidos com valor entre R$ 1,00 e R$ 50,00 que não estiverem com o pagamento confirmado não terão solicitação de encaixe. Nesses casos, também não será realizado agendamento para dia seguinte nem  outras datas.
